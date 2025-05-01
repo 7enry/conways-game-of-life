@@ -1,5 +1,5 @@
 # conways-game-of-life
-This projecct implements Conway’s Game of Life in Python, with animation, pattern parsing, and Turing machine simulation.
+This project implements Conway’s Game of Life in Python, with animation, pattern parsing, and Turing machine simulation.
 
 Setup instructions:
 1. download and unzip file
